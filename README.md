@@ -1,5 +1,5 @@
 # second git sample file
 
-## it dont have any html files
+## it has a html file
 
-By the way how are u
+ok
