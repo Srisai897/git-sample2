@@ -2,4 +2,4 @@
 
 ## it has a html file
 
-ok
+html inserted as index.html
